@@ -8,6 +8,12 @@ This folder contains a small machine learning project around the **DASS-21** que
 
 > **Important**: This project is for educational/analytics purposes and is **not** a clinical diagnostic tool.
 
+## Screenshots (Web UI)
+
+| Assessment form | Results page |
+| --- | --- |
+| ![DASS-21 assessment form](assets/ui-assessment.png) | ![DASS-21 results page](assets/ui-results.png) |
+
 ## What it does
 
 - **Loads and cleans** a DASS-21 dataset (Excel or CSV)
